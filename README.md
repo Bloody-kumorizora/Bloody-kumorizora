@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bloody-kumorizora&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://progtips.ru/wp-content/uploads/2019/11/gh1.png" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bloody-kumorizora&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloody-kumorizora&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
