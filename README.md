@@ -50,15 +50,30 @@
 
 ---
 
-### 📊 Статистика
+### 🖋️ Персонажи новеллы
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.com/Bloody-kumorizora/Novella/blob/main/0D4B92B4-2B6D-4590-8F87-E9D087F2B28A.png?raw=true" width="160"/>
+<br/><b>Ash Corvin</b>
+<br/><sub>главный герой</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/Bloody-kumorizora/Novella/blob/main/570EBE23-BCB6-4BB4-8740-E073AE69EBA1.png?raw=true" width="160"/>
+<br/><b>Kael Thorne</b>
+<br/><sub>союзник поневоле</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/Bloody-kumorizora/Novella/blob/main/170E926D-5384-409C-B96C-96A7C1E87186.png?raw=true" width="160"/>
+<br/><b>Roren Voss</b>
+<br/><sub>антагонист</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://progtips.ru/wp-content/uploads/2019/11/gh1.png" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bloody-kumorizora&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloody-kumorizora&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
+<i>Академия Разлома — мир, где начинается их история</i>
 </div>
 
 ---
