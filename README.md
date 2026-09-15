@@ -57,8 +57,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Kumorizora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumorizora&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumorizora&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
 </div>
 
 ---
