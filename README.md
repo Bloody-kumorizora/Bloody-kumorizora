@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋 Я [ТВОЁ ИМЯ]</h1><p align="center">
+<h1 align="center">Hello 👋 I'm Kumorizora</h1><p align="center">
   🎮 Инди-разработчик игр &nbsp;|&nbsp; 🏗️ Делаю миры в GDevelop &nbsp;|&nbsp; 🧠 Учусь и расту
 </p>
 
@@ -19,7 +19,7 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bloody-kumorizora&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center"><i>Спасибо, что заглянул(-а) в профиль! ⭐ Ставь звёздочку понравившимся проектам</i></p>
