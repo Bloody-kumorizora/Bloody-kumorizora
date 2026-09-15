@@ -1,25 +1,56 @@
-<h1 align="center">Hello 👋 I'm Kumorizora</h1><p align="center">
-  🎮 Инди-разработчик игр &nbsp;|&nbsp; 🏗️ Делаю миры в GDevelop &nbsp;|&nbsp; 🧠 Учусь и расту
-</p>
+<div align="center">
 
-🕹️ Обо мне
-Я делаю игры без классического программирования — через визуальные системы вроде GDevelop, но также могу делать игры в Roblox или в Unity
-Люблю идейные, атмосферные проекты: менеджмент, идлы, уютные симуляторы. 
-Также нравятся психологические проекты: психологический хоррор, детективы.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B18AFF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Kumorizora;Indie+Game+Developer;GDevelop+%7C+Roblox+%7C+Unity" alt="Typing SVG" />
 
-🚧 Текущий проект
-🛁 Капибара Спа: Ленивый Отель
-Изометрический idle/management-симулятор про спа-отель для капибар.
-	•	🐹 Управляемый персонаж — Капибара-менеджер (8-направленное движение)
-	•	🛀 Гости приходят, занимают свободные ванны, платят за визит
-	•	💰 Экономика на золоте, апгрейды (например, открытие второй ванны)
-	•	🕹️ Кроссплатформенно: WASD/стрелки на ПК, джойстик на телефоне
-<!-- Когда будет ссылка на проект/демо, добавь сюда:
-[▶️ Играть / Демо](ССЫЛКА)
--->
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bloody-kumorizora&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![GDevelop](https://img.shields.io/badge/GDevelop-FF4700?style=for-the-badge&logo=gdevelop&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-<p align="center"><i>Спасибо, что заглянул(-а) в профиль! ⭐ Ставь звёздочку понравившимся проектам</i></p>
+</div>
+
+---
+
+### 🎮 Обо мне
+
+Делаю игры — от визуальных систем вроде GDevelop до Roblox и Unity.
+Люблю два разных настроения:
+
+- 🛋️ **Уютное** — менеджмент, idle, спокойные симуляторы
+- 🌒 **Тревожное** — психологический хоррор, детективы, мрачная атмосфера
+
+---
+
+### 🚧 Сейчас в разработке
+
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+**🛁 Капибара Спа: Ленивый Отель**
+*Изометрический idle/management-симулятор*
+
+| | |
+|---|---|
+| 🐹 | Управляемый персонаж — Капибара-менеджер, 8-направленное движение |
+| 🛀 | Гости приходят и занимают свободные ванны, платят за визит |
+| 💰 | Экономика на золоте, апгрейды (например, вторая ванна) |
+| 🕹️ | Кроссплатформенно — WASD/стрелки на ПК, джойстик на телефоне |
+
+### 📊 Статистика
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kumorizora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumorizora&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumorizora&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+
+</div>
+
+---
+<div align="center">
+<i>Спасибо, что заглянул(-а) в профиль! ⭐ Ставь звёздочку понравившимся проектам</i>
+</div>
