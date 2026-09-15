@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B18AFF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Kumorizora;Indie+Game+Developer;GDevelop+%7C+Roblox+%7C+Unity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B18AFF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Bloody-kumorizora;Indie+Game+Developer;GDevelop+%7C+Roblox+%7C+Unity" alt="Typing SVG" />
 
 <br/>
 
@@ -53,9 +53,11 @@
 ### 📊 Статистика
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Bloody-kumorizora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumorizora&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bloody-kumorizora&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bloody-kumorizora&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloody-kumorizora&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 
 </div>
 
